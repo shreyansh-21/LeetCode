@@ -1,13 +1,19 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        prefix_product = 1
-        postfix_product = 1
-        result = [0]*n
-        for i in range(n):
-            result[i] = prefix_product
-            prefix_product *= nums[i]
-        for i in range(n-1,-1,-1):
-            result[i] *= postfix_product
-            postfix_product *= nums[i]
-        return result
+
+        l_mult = 1
+        r_mult = 1
+
+        l_arr = [0]*n
+        r_arr = [0]*n
+
+        for  i in range(n):
+            j = -i-1 #Traversing with negative index from back
+            l_arr[i] = l_mult
+            r_arr[j] = r_mult
+
+            l_mult *= nums[i]
+            r_mult *= nums[j]
+        return[l*r for l,r in zip(l_arr , r_arr)]
+        
