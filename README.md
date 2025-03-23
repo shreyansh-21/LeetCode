@@ -9,13 +9,13 @@
         <li><strong>Hard</strong> – Challenging problems that require advanced problem-solving strategies.</li>
     </ul>
 
-  <h2>🚀 How to Use</h2>
+  <h2>How to Use</h2>
     <ul>
         <li>Each solution is documented with a clear explanation and approach.</li>
         <li>Code is organized by problem name and category for easy navigation.</li>
     </ul>
 
-  <h2>🛠️ Languages Used</h2>
+  <h2>Languages Used</h2>
     <ul>
         <li>Python</li>
     </ul>
