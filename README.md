@@ -1,22 +1,42 @@
- <h1>LeetCode Solutions</h1>
+<h1>LeetCode Solutions Sync</h1>
 
-  <p>This repository contains my solutions to various <strong>LeetCode</strong> problems, organized by difficulty and topic. It serves as a personal reference and helps track my progress in improving problem-solving skills and understanding of algorithms and data structures.</p>
+<p>This repository serves as a centralized archive for my <strong>LeetCode</strong> problem solutions, automatically synchronized to maintain an up-to-date record of my progress.</p>
 
-  <h2>📂 Structure</h2>
-    <ul>
-        <li><strong>Easy</strong> – Basic problems to reinforce fundamentals.</li>
-        <li><strong>Medium</strong> – Intermediate problems focusing on algorithmic thinking.</li>
-        <li><strong>Hard</strong> – Challenging problems that require advanced problem-solving strategies.</li>
-    </ul>
+<h2>Overview</h2>
+<p>This repository is designed to:</p>
+<ul>
+    <li>Maintain a structured collection of my <strong>LeetCode</strong> solutions.</li>
+    <li>Track progress and improvements over time.</li>
+    <li>Serve as a reference for revisiting past problems.</li>
+</ul>
 
-  <h2>How to Use</h2>
-    <ul>
-        <li>Each solution is documented with a clear explanation and approach.</li>
-        <li>Code is organized by problem name and category for easy navigation.</li>
-    </ul>
+<h2>Repository Structure</h2>
+<p>Solutions are organized based on the following criteria:</p>
+<ul>
+    <li><strong>Problem Name</strong> 📌</li>
+    <li><strong>Difficulty Level</strong> (Easy / Medium / Hard) 🎯</li>
+    <li><strong>Algorithmic Concepts & Data Structures</strong> (DP, Graphs, Greedy, etc.) 🧩</li>
+    <li><strong>Programming Language</strong> (Primarily Python, Javascript) 💻</li>
+</ul>
 
-  <h2>Languages Used</h2>
-    <ul>
-        <li>Python</li>
-    </ul>
+<h2>Automated Syncing</h2>
+<p>This repository is automatically updated to ensure that all my latest LeetCode submissions are efficiently stored and remain up to date.</p>
 
+<h2>Objectives</h2>
+<ul>
+    <li><strong>Performance Tracking</strong> – Monitor problem-solving progress over time.</li>
+    <li><strong>Efficient Reference</strong> – Quickly revisit previously solved problems.</li>
+    <li><strong>Knowledge Sharing</strong> – Provide insights for others working on similar challenges.</li>
+</ul>
+
+<h2>How to use </h2>
+<p>To find a specific solution:</p>
+<ol>
+    <li>Navigate through the repository folders.</li>
+    <li>Use the <strong>search🔍</strong> function to locate a problem by name or topic.</li>
+    <li>Review the solution and underlying logic.</li>
+</ol>
+
+<hr>
+
+<p>If you find this repository helpful, consider <strong>starring ⭐</strong> it!</p>
