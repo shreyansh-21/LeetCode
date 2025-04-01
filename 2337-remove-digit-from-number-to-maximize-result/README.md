@@ -38,3 +38,25 @@ Both result in the string &quot;51&quot;.
 	<li><code>digit</code> is a digit from <code>&#39;1&#39;</code> to <code>&#39;9&#39;</code>.</li>
 	<li><code>digit</code> occurs at least once in <code>number</code>.</li>
 </ul>
+
+
+<h1>Explanation of the Line</h1>
+<pre>
+result = max(result, int(number[0:i] + number[i+1:len(number)]))
+</pre>
+<p>This line performs the following operations:</p>
+<ul>
+  <li><code>number[0:i]</code> - Extracts the substring from the start (index <code>0</code>) to index <code>i</code> (excluding <code>i</code>).</li>
+  <li><code>number[i+1:len(number)]</code> - Extracts the substring from index <code>i+1</code> to the end, effectively removing <code>number[i]</code>.</li>
+  <li><code>number[0:i] + number[i+1:len(number)]</code> - Concatenates the two substrings, effectively removing the character at index <code>i</code>.</li>
+  <li><code>int(...)</code> - Converts the resulting string into an integer.</li>
+  <li><code>max(result, ...)</code> - Keeps track of the maximum number obtained after removing an occurrence of <code>digit</code>.</li>
+</ul>
+
+<h3>Example</h3>
+<p>For <code>number = "1231"</code> and <code>digit = "1"</code>:</p>
+<ul>
+  <li>Removing the first <code>"1"</code>: <code>number[0:0] + number[1:4]</code> → <code>"" + "231"</code> → <code>"231"</code></li>
+  <li>Removing the last <code>"1"</code>: <code>number[0:3] + number[4:4]</code> → <code>"123" + ""</code> → <code>"123"</code></li>
+</ul>
+<p>The function returns <code>"231"</code>, as <code>231 &gt; 123</code>.</p>
