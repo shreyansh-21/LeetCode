@@ -1,8 +1,19 @@
 <h1>LeetCode Solutions Sync </h1>
 
-<p>This repository serves as a centralized archive for my <strong>LeetCode</strong> problem solutions, automatically synchronized to maintain an up-to-date record of my progress.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQyNmMyajJxdGQzdTlndjlvMnpwcXo4NWkyaDQ5bnNwYjZhdXh0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" height="150" width="180" alt="logo"/></p>
+<table>
+  <tr>
+    <td>
+      <p>
+        This repository serves as a centralized archive for my <strong>LeetCode</strong> problem solutions, 
+        automatically synchronized to maintain an up-to-date record of my progress.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQyNmMyajJxdGQzdTlndjlvMnpwcXo4NWkyaDQ5bnNwYjZhdXh0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" 
+           height="150" width="180" alt="logo" />
+    </td>
+  </tr>
+</table>
 
 <h2>Overview</h2>
 <p>This repository is designed to:</p>
