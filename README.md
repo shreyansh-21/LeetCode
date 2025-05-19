@@ -53,3 +53,19 @@
 <hr>
 
 <p>If you find this repository helpful, consider <strong>starring ⭐</strong> it!</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
+<!---LeetCode Topics End-->
