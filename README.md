@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
