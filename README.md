@@ -79,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -88,4 +89,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
+| [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
