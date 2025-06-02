@@ -93,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shreyansh-21/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
