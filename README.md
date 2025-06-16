@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
@@ -98,11 +99,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shreyansh-21/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 ## Binary Search
