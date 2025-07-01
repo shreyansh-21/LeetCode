@@ -63,6 +63,7 @@
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -137,6 +140,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
