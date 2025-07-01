@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
