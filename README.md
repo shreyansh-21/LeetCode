@@ -68,6 +68,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -92,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
@@ -117,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 ## String
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
