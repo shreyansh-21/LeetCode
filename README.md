@@ -61,6 +61,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/shreyansh-21/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -203,6 +205,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyansh-21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shreyansh-21/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyansh-21/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyansh-21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -260,6 +264,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
