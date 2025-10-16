@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shreyansh-21/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
