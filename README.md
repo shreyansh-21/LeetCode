@@ -81,6 +81,7 @@
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1580-shuffle-the-array](https://github.com/shreyansh-21/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -150,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/shreyansh-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## String
