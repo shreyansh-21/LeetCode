@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/shreyansh-21/LeetCode/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shreyansh-21/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyansh-21/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shreyansh-21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -351,6 +353,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shreyansh-21/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shreyansh-21/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/shreyansh-21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -384,4 +387,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyansh-21/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shreyansh-21/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
