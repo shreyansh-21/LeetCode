@@ -83,6 +83,7 @@
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1580-shuffle-the-array](https://github.com/shreyansh-21/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -101,6 +102,7 @@
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shreyansh-21/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shreyansh-21/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
