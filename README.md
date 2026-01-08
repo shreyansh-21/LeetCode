@@ -82,6 +82,7 @@
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -366,6 +367,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shreyansh-21/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/shreyansh-21/LeetCode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -410,5 +412,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
