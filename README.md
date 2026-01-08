@@ -85,6 +85,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/shreyansh-21/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/shreyansh-21/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -234,6 +235,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyansh-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shreyansh-21/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/shreyansh-21/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Linked List
 |  |
 | ------- |
