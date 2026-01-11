@@ -1,47 +1,23 @@
 class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        if not matrix or not matrix[0]:
-            return 0
+        # edge case 不要忘记！
+        if not matrix:
+           return 0
+        histogram = [0] * (len(matrix[0]) + 1)
+        maxSize = 0
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                histogram[j] = histogram[j] + 1 if matrix[i][j] == "1" else 0
+            maxSize = max(maxSize, self.get_largest_from_histogram(histogram))
+        return maxSize
+    
+    def get_largest_from_histogram(self, array):
+        stack = []
+        max_area = 0
+        for i in range(len(array)):
+            while stack and array[stack[-1]] > array[i]:
+                top_index = stack.pop()
+                max_area = max(max_area, array[top_index] * ((i - stack[-1] - 1) if stack else i))
 
-        M = len(matrix)
-        N = len(matrix[0])
-
-        # Convert characters to integers
-        for i in range(M):
-            for j in range(N):
-                matrix[i][j] = int(matrix[i][j])
-
-        # Row-wise prefix widths
-        for i in range(M):
-            for j in range(1, N):
-                if matrix[i][j] == 1:
-                    matrix[i][j] += matrix[i][j - 1]
-
-        Ans = 0
-
-        # Fix each column
-        for j in range(N):
-            for i in range(M):
-                width = matrix[i][j]
-                if width == 0:
-                    continue
-
-                # Expand downward
-                currWidth = width
-                k = i
-                while k < M and matrix[k][j] > 0:
-                    currWidth = min(currWidth, matrix[k][j])
-                    height = k - i + 1
-                    Ans = max(Ans, currWidth * height)
-                    k += 1
-
-                # Expand upward
-                currWidth = width
-                k = i
-                while k >= 0 and matrix[k][j] > 0:
-                    currWidth = min(currWidth, matrix[k][j])
-                    height = i - k + 1
-                    Ans = max(Ans, currWidth * height)
-                    k -= 1
-
-        return Ans
+            stack.append(i)
+        return max_area
