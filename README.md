@@ -95,6 +95,7 @@
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -167,6 +168,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
 |  |
 | ------- |
@@ -449,4 +451,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
