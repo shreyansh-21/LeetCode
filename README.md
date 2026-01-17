@@ -63,6 +63,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/shreyansh-21/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shreyansh-21/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyansh-21/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyansh-21/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -121,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shreyansh-21/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
@@ -235,6 +237,7 @@
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shreyansh-21/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shreyansh-21/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
