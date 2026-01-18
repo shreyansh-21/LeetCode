@@ -92,6 +92,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shreyansh-21/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/shreyansh-21/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyansh-21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 ## Brainteaser
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
+| [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Geometry
 |  |
