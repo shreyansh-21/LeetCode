@@ -101,6 +101,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shreyansh-21/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -147,6 +148,7 @@
 | [0090-subsets-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
 | ------- |
