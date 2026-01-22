@@ -105,6 +105,7 @@
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shreyansh-21/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
@@ -157,6 +158,7 @@
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -278,6 +282,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -472,4 +477,12 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
