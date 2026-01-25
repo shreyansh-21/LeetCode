@@ -77,6 +77,7 @@
 | [0238-product-of-array-except-self](https://github.com/shreyansh-21/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreyansh-21/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/shreyansh-21/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shreyansh-21/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +138,7 @@
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/shreyansh-21/LeetCode/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
