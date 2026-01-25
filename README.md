@@ -99,6 +99,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shreyansh-21/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shreyansh-21/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -146,6 +147,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shreyansh-21/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shreyansh-21/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyansh-21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shreyansh-21/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
 | ------- |
