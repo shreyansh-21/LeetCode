@@ -89,6 +89,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/shreyansh-21/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shreyansh-21/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
@@ -147,6 +148,7 @@
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/shreyansh-21/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shreyansh-21/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
