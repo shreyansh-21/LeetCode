@@ -102,6 +102,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shreyansh-21/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2239-find-closest-number-to-zero](https://github.com/shreyansh-21/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shreyansh-21/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
