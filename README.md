@@ -71,6 +71,7 @@
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shreyansh-21/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
@@ -179,6 +181,7 @@
 | [0141-linked-list-cycle](https://github.com/shreyansh-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyansh-21/LeetCode/tree/master/0242-valid-anagram) |
@@ -230,6 +233,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -247,6 +251,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyansh-21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
