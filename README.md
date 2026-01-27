@@ -72,6 +72,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyansh-21/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0229-majority-element-ii) |
@@ -125,6 +126,7 @@
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shreyansh-21/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -275,6 +277,7 @@
 | [0141-linked-list-cycle](https://github.com/shreyansh-21/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-21/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreyansh-21/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shreyansh-21/LeetCode/tree/master/0344-reverse-string) |
