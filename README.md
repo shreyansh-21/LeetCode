@@ -87,6 +87,7 @@
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/shreyansh-21/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -146,6 +147,7 @@
 | [0414-third-maximum-number](https://github.com/shreyansh-21/LeetCode/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/shreyansh-21/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -277,6 +279,7 @@
 | [0283-move-zeroes](https://github.com/shreyansh-21/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shreyansh-21/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shreyansh-21/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/shreyansh-21/LeetCode/tree/master/2481-strictly-palindromic-number) |
