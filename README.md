@@ -138,6 +138,7 @@
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shreyansh-21/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shreyansh-21/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/shreyansh-21/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shreyansh-21/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -391,6 +392,7 @@
 | [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
+| [2485-find-the-pivot-integer](https://github.com/shreyansh-21/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |
 | ------- |
