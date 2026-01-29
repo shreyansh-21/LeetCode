@@ -112,6 +112,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/shreyansh-21/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shreyansh-21/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -224,6 +225,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shreyansh-21/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/shreyansh-21/LeetCode/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
@@ -534,9 +536,11 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shreyansh-21/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shreyansh-21/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
