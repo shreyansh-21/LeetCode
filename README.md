@@ -86,6 +86,7 @@
 | [0503-next-greater-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -387,6 +388,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreyansh-21/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 ## Brainteaser
