@@ -105,6 +105,7 @@
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shreyansh-21/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyansh-21/LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -176,6 +177,7 @@
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -219,6 +221,7 @@
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shreyansh-21/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3396-valid-word](https://github.com/shreyansh-21/LeetCode/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
