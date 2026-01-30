@@ -99,6 +99,7 @@
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shreyansh-21/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/shreyansh-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1580-shuffle-the-array](https://github.com/shreyansh-21/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shreyansh-21/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -396,6 +397,7 @@
 | [0238-product-of-array-except-self](https://github.com/shreyansh-21/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/shreyansh-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/shreyansh-21/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
