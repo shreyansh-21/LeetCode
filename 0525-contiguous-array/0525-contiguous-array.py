@@ -1,20 +1,19 @@
 class Solution:
-    def findMaxLength(self, nums: List[int]) -> int:
-        prefix_index = {}   # stores prefix_sum -> first index
-        prefix_sum = 0
-        max_length = 0
+    def findMaxLength(self, nums):
+        maxLen = 0
+        prefixSum = 0
+        hashmap = {0 : -1}
 
         for i in range(len(nums)):
-            if nums[i] == 1:
-                prefix_sum += 1
+            if nums[i] == 0:
+                prefixSum += (-1)
             else:
-                prefix_sum -= 1
+                prefixSum += nums[i]
 
-            if prefix_sum == 0:
-                max_length = i + 1
-            elif prefix_sum in prefix_index:
-                max_length = max(max_length, i - prefix_index[prefix_sum])
-            else:
-                prefix_index[prefix_sum] = i
+            if prefixSum in hashmap:
+                maxLen = max(maxLen, (i - hashmap[prefixSum]))
+                continue
 
-        return max_length
+            hashmap[prefixSum] = i
+
+        return maxLen
