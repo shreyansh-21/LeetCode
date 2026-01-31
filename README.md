@@ -88,6 +88,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shreyansh-21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shreyansh-21/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shreyansh-21/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
