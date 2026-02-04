@@ -182,6 +182,7 @@
 | [0078-subsets](https://github.com/shreyansh-21/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/shreyansh-21/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
