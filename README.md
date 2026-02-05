@@ -124,6 +124,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/shreyansh-21/LeetCode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -194,6 +195,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/shreyansh-21/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
