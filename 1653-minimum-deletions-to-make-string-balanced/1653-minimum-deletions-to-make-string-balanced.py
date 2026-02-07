@@ -1,10 +1,15 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        res = count = 0
-        for c in s:
-            if c == 'b':
-                count += 1
-            elif count:
-                res += 1
-                count -= 1
-        return res
+        b_count = 0
+        deletions = 0
+
+        for ch in s:
+            if ch == 'a':
+                deletions = min(deletions + 1, b_count)
+            else: 
+                b_count += 1
+
+        return deletions
+
+
+    
