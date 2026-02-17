@@ -196,6 +196,7 @@
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shreyansh-21/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shreyansh-21/LeetCode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/shreyansh-21/LeetCode/tree/master/0401-binary-watch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shreyansh-21/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -402,6 +403,7 @@
 | ------- |
 | [0078-subsets](https://github.com/shreyansh-21/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/shreyansh-21/LeetCode/tree/master/0401-binary-watch) |
 ## Union Find
 |  |
 | ------- |
