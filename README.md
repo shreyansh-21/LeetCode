@@ -179,6 +179,7 @@
 | [0414-third-maximum-number](https://github.com/shreyansh-21/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shreyansh-21/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
+| [0761-special-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/0761-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -270,6 +271,7 @@
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/shreyansh-21/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shreyansh-21/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/0761-special-binary-string) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -312,6 +314,7 @@
 | [0190-reverse-bits](https://github.com/shreyansh-21/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-21/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/shreyansh-21/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/shreyansh-21/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
