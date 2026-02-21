@@ -154,6 +154,7 @@
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyansh-21/LeetCode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyansh-21/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -204,6 +205,7 @@
 | [0268-missing-number](https://github.com/shreyansh-21/LeetCode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/shreyansh-21/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shreyansh-21/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyansh-21/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shreyansh-21/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
