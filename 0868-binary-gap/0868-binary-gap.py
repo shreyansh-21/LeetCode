@@ -1,16 +1,15 @@
 class Solution:
     def binaryGap(self, n: int) -> int:
-        if (n & (n - 1)) == 0: return 0
-        n //= n & -n
-        max_gap = 0
-        gap = 0
-
-        while n:
-            if n & 1:
-                max_gap = max(max_gap, gap)
-                gap = 0
-            else:
-                gap += 1
-            n >>= 1
-
-        return max_gap + 1
+        b=bin(n)[2:]
+        if b.count('1')<=1:
+            return 0
+        c=0
+        m=0
+        for i in b:
+            if i=='0':
+                c+=1
+            elif i=='1':
+                m=max(m,c+1)
+                c=0
+        return m
+        
