@@ -98,6 +98,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreyansh-21/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
+| [0941-valid-mountain-array](https://github.com/shreyansh-21/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shreyansh-21/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyansh-21/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
