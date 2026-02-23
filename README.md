@@ -95,6 +95,7 @@
 | [0621-task-scheduler](https://github.com/shreyansh-21/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/shreyansh-21/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shreyansh-21/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shreyansh-21/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreyansh-21/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/shreyansh-21/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/shreyansh-21/LeetCode/tree/master/0890-lemonade-change) |
@@ -455,6 +456,7 @@
 | [0234-palindrome-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shreyansh-21/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Design
@@ -478,6 +480,7 @@
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/shreyansh-21/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shreyansh-21/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
 ## Prefix Sum
 |  |
