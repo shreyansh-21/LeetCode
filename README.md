@@ -71,6 +71,7 @@
 | [0090-subsets-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyansh-21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyansh-21/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyansh-21/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -386,6 +387,7 @@
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyansh-21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyansh-21/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shreyansh-21/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/shreyansh-21/LeetCode/tree/master/0799-champagne-tower) |
