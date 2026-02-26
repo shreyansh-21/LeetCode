@@ -213,6 +213,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyansh-21/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/shreyansh-21/LeetCode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shreyansh-21/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shreyansh-21/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shreyansh-21/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shreyansh-21/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -223,6 +224,7 @@
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/shreyansh-21/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shreyansh-21/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -284,6 +286,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shreyansh-21/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/0761-special-binary-string) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shreyansh-21/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shreyansh-21/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
