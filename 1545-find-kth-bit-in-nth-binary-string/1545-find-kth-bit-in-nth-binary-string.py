@@ -1,15 +1,23 @@
 class Solution:
     def findKthBit(self, n: int, k: int) -> str:
-        if n == 1:
-            return '0'
+        s = "0"
         
-        length = (1 << n) - 1
-        mid = (length + 1) // 2
+        # Step 1: Build up to Sn
+        for _ in range(2, n + 1):
+            
+            # Invert the string
+            inverted = ""
+            for ch in s:
+                if ch == "0":
+                    inverted += "1"
+                else:
+                    inverted += "0"
+            
+            # Reverse the inverted string
+            reversed_inverted = inverted[::-1]
+            
+            # Form next string
+            s = s + "1" + reversed_inverted
         
-        if k == mid:
-            return '1'
-        if k < mid:
-            return self.findKthBit(n - 1, k)
-        
-        c = self.findKthBit(n - 1, length - k + 1)
-        return '1' if c == '0' else '0'
+        # Step 3: Return kth bit (convert to 0-based index)
+        return s[k - 1]
