@@ -298,6 +298,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shreyansh-21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shreyansh-21/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
