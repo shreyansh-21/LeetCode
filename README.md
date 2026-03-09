@@ -423,6 +423,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shreyansh-21/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shreyansh-21/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shreyansh-21/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -527,6 +528,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/shreyansh-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/shreyansh-21/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shreyansh-21/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shreyansh-21/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
