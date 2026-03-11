@@ -63,6 +63,7 @@
 | [0031-next-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shreyansh-21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shreyansh-21/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreyansh-21/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyansh-21/LeetCode/tree/master/0078-subsets) |
@@ -344,6 +345,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shreyansh-21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyansh-21/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shreyansh-21/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-21/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -410,6 +412,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shreyansh-21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0119-pascals-triangle-ii) |
