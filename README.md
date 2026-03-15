@@ -170,6 +170,7 @@
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shreyansh-21/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/1622-fancy-sequence) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shreyansh-21/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/shreyansh-21/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -513,6 +514,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shreyansh-21/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyansh-21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -675,6 +677,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shreyansh-21/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
