@@ -165,6 +165,7 @@
 | [0066-plus-one](https://github.com/shreyansh-21/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/shreyansh-21/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shreyansh-21/LeetCode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shreyansh-21/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
