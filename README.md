@@ -133,6 +133,7 @@
 | [2048-build-array-from-permutation](https://github.com/shreyansh-21/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shreyansh-21/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/shreyansh-21/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2540-minimum-common-value](https://github.com/shreyansh-21/LeetCode/tree/master/2540-minimum-common-value) |
 | [2751-robot-collisions](https://github.com/shreyansh-21/LeetCode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -284,6 +285,7 @@
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shreyansh-21/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/shreyansh-21/LeetCode/tree/master/2540-minimum-common-value) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shreyansh-21/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -341,6 +343,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreyansh-21/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyansh-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2540-minimum-common-value](https://github.com/shreyansh-21/LeetCode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shreyansh-21/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/shreyansh-21/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -433,6 +436,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shreyansh-21/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-21/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/shreyansh-21/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/shreyansh-21/LeetCode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
