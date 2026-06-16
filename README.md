@@ -255,6 +255,7 @@
 | [3379-transformed-array](https://github.com/shreyansh-21/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/shreyansh-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +330,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3396-valid-word](https://github.com/shreyansh-21/LeetCode/tree/master/3396-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/shreyansh-21/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/shreyansh-21/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Binary Search
