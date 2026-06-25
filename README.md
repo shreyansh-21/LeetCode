@@ -316,6 +316,7 @@
 | [0761-special-binary-string](https://github.com/shreyansh-21/LeetCode/tree/master/0761-special-binary-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyansh-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shreyansh-21/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shreyansh-21/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shreyansh-21/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -533,6 +534,7 @@
 | [0739-daily-temperatures](https://github.com/shreyansh-21/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyansh-21/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shreyansh-21/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/shreyansh-21/LeetCode/tree/master/2751-robot-collisions) |
 ## Design
