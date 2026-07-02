@@ -143,6 +143,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreyansh-21/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shreyansh-21/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shreyansh-21/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -395,6 +396,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shreyansh-21/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shreyansh-21/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shreyansh-21/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -649,6 +651,7 @@
 | [0994-rotting-oranges](https://github.com/shreyansh-21/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shreyansh-21/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -706,6 +709,7 @@
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/shreyansh-21/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shreyansh-21/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Geometry
 |  |
@@ -744,6 +748,7 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shreyansh-21/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shreyansh-21/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -751,6 +756,7 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shreyansh-21/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/shreyansh-21/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/shreyansh-21/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
