@@ -169,6 +169,7 @@
 | [0012-integer-to-roman](https://github.com/shreyansh-21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/shreyansh-21/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyansh-21/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/shreyansh-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreyansh-21/LeetCode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/shreyansh-21/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shreyansh-21/LeetCode/tree/master/0268-missing-number) |
@@ -455,6 +456,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyansh-21/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyansh-21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shreyansh-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shreyansh-21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shreyansh-21/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -500,6 +502,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shreyansh-21/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shreyansh-21/LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
