@@ -114,6 +114,7 @@
 | [1200-minimum-absolute-difference](https://github.com/shreyansh-21/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shreyansh-21/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shreyansh-21/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -178,6 +179,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/shreyansh-21/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/shreyansh-21/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shreyansh-21/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/shreyansh-21/LeetCode/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/1622-fancy-sequence) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shreyansh-21/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -554,6 +556,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shreyansh-21/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyansh-21/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/shreyansh-21/LeetCode/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
@@ -582,6 +585,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyansh-21/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyansh-21/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shreyansh-21/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyansh-21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shreyansh-21/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/shreyansh-21/LeetCode/tree/master/1895-largest-magic-square) |
@@ -599,6 +603,7 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/shreyansh-21/LeetCode/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shreyansh-21/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
